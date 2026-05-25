@@ -1,0 +1,8 @@
+Function: DeJong1
+Dimension: 10
+Population Size: 662
+Mutation Rate: 0.056342
+Crossover Rate: 0.777889
+Eta_c: 26.110097
+Eta_m: 18.119989
+Average Fitness: 0.000000

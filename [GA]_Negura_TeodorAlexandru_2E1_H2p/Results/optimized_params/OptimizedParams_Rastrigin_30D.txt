@@ -1,0 +1,8 @@
+Function: Rastrigin
+Dimension: 30
+Population Size: 689
+Mutation Rate: 0.018929
+Crossover Rate: 0.838323
+Eta_c: 32.410145
+Eta_m: 37.854956
+Average Fitness: 0.000000

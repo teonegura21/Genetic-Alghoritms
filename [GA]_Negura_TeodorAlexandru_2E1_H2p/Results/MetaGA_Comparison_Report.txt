@@ -1,0 +1,85 @@
+=== Meta-GA vs H2 Baseline Comparison Report ===
+
+DeJong1 5D:
+  H2 Baseline Mean: 0.000000
+  Optimized Best: 0.000000
+  Optimized Mean: 0.000000
+  Optimized Std Dev: 0.000000
+  Improvement: 0.000000%
+
+DeJong1 10D:
+  H2 Baseline Mean: 0.000000
+  Optimized Best: 0.000000
+  Optimized Mean: 0.000000
+  Optimized Std Dev: 0.000000
+  Improvement: 0.000000%
+
+DeJong1 30D:
+  H2 Baseline Mean: 0.000000
+  Optimized Best: 0.000000
+  Optimized Mean: 0.000000
+  Optimized Std Dev: 0.000000
+  Improvement: 0.000000%
+
+Schwefel 5D:
+  H2 Baseline Mean: -1925.152823
+  Optimized Best: -2094.914436
+  Optimized Mean: -2094.914436
+  Optimized Std Dev: 0.000000
+  Improvement: 8.818085%
+
+Schwefel 10D:
+  H2 Baseline Mean: -3759.502918
+  Optimized Best: -4188.921208
+  Optimized Mean: -3979.718321
+  Optimized Std Dev: 132.456766
+  Improvement: 5.857567%
+
+Schwefel 30D:
+  H2 Baseline Mean: -11089.007358
+  Optimized Best: -12569.486618
+  Optimized Mean: -12569.486618
+  Optimized Std Dev: 0.000000
+  Improvement: 13.350873%
+
+Rastrigin 5D:
+  H2 Baseline Mean: 0.000000
+  Optimized Best: 0.000000
+  Optimized Mean: 0.000000
+  Optimized Std Dev: 0.000000
+  Improvement: 0.000000%
+
+Rastrigin 10D:
+  H2 Baseline Mean: 0.000002
+  Optimized Best: 0.000000
+  Optimized Mean: 0.000000
+  Optimized Std Dev: 0.000000
+  Improvement: 100.000000%
+
+Rastrigin 30D:
+  H2 Baseline Mean: 0.000034
+  Optimized Best: 0.000000
+  Optimized Mean: 0.000000
+  Optimized Std Dev: 0.000000
+  Improvement: 100.000000%
+
+Michalewicz 5D:
+  H2 Baseline Mean: -4.686266
+  Optimized Best: -4.687658
+  Optimized Mean: -4.687658
+  Optimized Std Dev: 0.000000
+  Improvement: 0.029708%
+
+Michalewicz 10D:
+  H2 Baseline Mean: -9.649157
+  Optimized Best: -9.660152
+  Optimized Mean: -9.659906
+  Optimized Std Dev: 0.000937
+  Improvement: 0.111398%
+
+Michalewicz 30D:
+  H2 Baseline Mean: -29.355069
+  Optimized Best: -29.630884
+  Optimized Mean: -29.583519
+  Optimized Std Dev: 0.147466
+  Improvement: 0.778229%

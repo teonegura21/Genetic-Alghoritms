@@ -1,0 +1,135 @@
+=== Genetic Algorithm Statistical Analysis (H2) ===
+Running 30 independent trials per configuration.
+
+--------------------------------------------------
+Running Batch: DeJong1 (5D)
+Runs: 30 | Pop: 150 | Gen: 1500
+......
+RESULTS for DeJong1 5D:
+  Best Found: 0.000000
+  Worst Found: 0.000000
+  Mean Fitness: 0.000000
+  Std Deviation: 0.000000
+  Mean Delta (Error): 0.000000
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: DeJong1 (10D)
+Runs: 30 | Pop: 150 | Gen: 1500
+......
+RESULTS for DeJong1 10D:
+  Best Found: 0.000000
+  Worst Found: 0.000000
+  Mean Fitness: 0.000000
+  Std Deviation: 0.000000
+  Mean Delta (Error): 0.000000
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: DeJong1 (30D)
+Runs: 30 | Pop: 300 | Gen: 3000
+......
+RESULTS for DeJong1 30D:
+  Best Found: 0.000000
+  Worst Found: 0.000000
+  Mean Fitness: 0.000000
+  Std Deviation: 0.000000
+  Mean Delta (Error): 0.000000
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: Schwefel (5D)
+Runs: 30 | Pop: 150 | Gen: 1500
+......
+RESULTS for Schwefel 5D:
+  Best Found: -2094.914436
+  Worst Found: -1621.161098
+  Mean Fitness: -1925.152823
+  Std Deviation: 121.106053
+  Mean Delta (Error): 169.761677
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: Schwefel (10D)
+Runs: 30 | Pop: 150 | Gen: 1500
+......
+RESULTS for Schwefel 10D:
+  Best Found: -4189.828868
+  Worst Found: -3479.198862
+  Mean Fitness: -3759.502918
+  Std Deviation: 187.225829
+  Mean Delta (Error): 430.326082
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: Schwefel (30D)
+Runs: 30 | Pop: 1000 | Gen: 5000
+......
+RESULTS for Schwefel 30D:
+  Best Found: -11621.979816
+  Worst Found: -10556.034850
+  Mean Fitness: -11089.007358
+  Std Deviation: 279.858859
+  Mean Delta (Error): 1480.479642
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: Rastrigin (5D)
+Runs: 30 | Pop: 150 | Gen: 1500
+......
+RESULTS for Rastrigin 5D:
+  Best Found: 0.000000
+  Worst Found: 0.000001
+  Mean Fitness: 0.000000
+  Std Deviation: 0.000000
+  Mean Delta (Error): 0.000000
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: Rastrigin (10D)
+Runs: 30 | Pop: 150 | Gen: 1500
+......
+RESULTS for Rastrigin 10D:
+  Best Found: 0.000000
+  Worst Found: 0.000007
+  Mean Fitness: 0.000002
+  Std Deviation: 0.000002
+  Mean Delta (Error): 0.000002
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: Rastrigin (30D)
+Runs: 30 | Pop: 300 | Gen: 3000
+......
+RESULTS for Rastrigin 30D:
+  Best Found: 0.000018
+  Worst Found: 0.000085
+  Mean Fitness: 0.000034
+  Std Deviation: 0.000012
+  Mean Delta (Error): 0.000034
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: Michalewicz (5D)
+Runs: 30 | Pop: 150 | Gen: 1500
+......
+RESULTS for Michalewicz 5D:
+  Best Found: -4.687658
+  Worst Found: -4.645895
+  Mean Fitness: -4.686266
+  Std Deviation: 0.007497
+  Mean Delta (Error): 0.002006
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: Michalewicz (10D)
+Runs: 30 | Pop: 150 | Gen: 1500
+......
+RESULTS for Michalewicz 10D:
+  Best Found: -9.660152
+  Worst Found: -9.497392
+  Mean Fitness: -9.649157
+  Std Deviation: 0.031539
+  Mean Delta (Error): 0.011094
+--------------------------------------------------
+--------------------------------------------------
+Running Batch: Michalewicz (30D)
+Runs: 30 | Pop: 300 | Gen: 3000
+......
+RESULTS for Michalewicz 30D:
+  Best Found: -29.615087
+  Worst Found: -28.616124
+  Mean Fitness: -29.355069
+  Std Deviation: 0.302678
+  Mean Delta (Error): 0.275831
+--------------------------------------------------

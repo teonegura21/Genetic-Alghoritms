@@ -1,0 +1,8 @@
+Function: Schwefel
+Dimension: 30
+Population Size: 562
+Mutation Rate: 0.023579
+Crossover Rate: 0.759851
+Eta_c: 19.823684
+Eta_m: 5.000000
+Average Fitness: -12569.486618

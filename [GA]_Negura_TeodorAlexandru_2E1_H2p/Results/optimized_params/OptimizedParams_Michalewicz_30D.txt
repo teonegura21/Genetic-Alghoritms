@@ -1,0 +1,8 @@
+Function: Michalewicz
+Dimension: 30
+Population Size: 522
+Mutation Rate: 0.012661
+Crossover Rate: 0.615681
+Eta_c: 38.074771
+Eta_m: 22.036382
+Average Fitness: -29.630884

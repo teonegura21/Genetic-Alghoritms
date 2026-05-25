@@ -1,0 +1,16 @@
+# TSPLIB Optimal Solutions
+# Format: instance_name optimal_tour_length
+#
+# These are the known optimal tour lengths for our benchmark instances
+# Source: TSPLIB + VLSI TSP Collection (Waterloo)
+
+berlin52   7542
+kroA100    21282
+ch150      6528
+kroA200    29368
+a280       2579
+pcb442     50778
+pr1002     259045
+dka1376    4666
+djc1785    6115
+pia3056    8258

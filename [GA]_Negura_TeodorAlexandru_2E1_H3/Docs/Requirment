@@ -1,0 +1,23 @@
+(ro) Enunt teme
+
+Sablon raport:
+Titlul, autor
+Abstract
+Introducere, cu introducere generala (ce explica continutul raportului), motivatie, descriere problema. Introducerea trebuie sa explice clar, dar succint, continutul. Un test daca introducerea este buna este: daca cineva citeste doar introducerea si o sectiune aleatorie a raportului, acea persoana trebuie sa inteleaga acea sectiune. Bineinteles, introducerea este cea mai dificila parte a unui raport / articol, si nu veti fi depuncatati pentru calitatea ei, in limite rezonabile.
+Metode: algoritmul utilizat, discutie alegeri implementare, discutie variante sau modificari folosite, e.g.: reprezentare (biti sau nr. reale), notiunea de vecinatate (cum sunt generati vecinii), procedura de initializare, conditia de oprire, parametrii (diferiti in functie de alg., ex. temp in SA, rate operatori in GA). La temele H1 si H2, puteti intra in detalii mai generale. La H1P, H2P, H3, puteti aminti de forma generala a algoritmului, si descrie in detaliu doar ce faceti diferit.
+Descriere experimente: dimensiuni, precizie, numar de repetitii, etc.
+Rezultate experimentale:
+tablele cu cel putin 30 de rulari pentru fiecare set de parametri (inclusiv cele 3 dimensionalitati folosite pentru problemele studiate), continant: medie + deviatie standard (sau medianta si distanta Q1-Q3), minim, maxim pentru fitness-ul rezultatelor.
+grafice: e.g. evolutia fitnessului de-a lungul unei rulari in functie de numarul de apeluri a functiei de evaluare. Nu incercati sa faceti grafice care nu au sens, sau reprezinta 'minciuni' statistice, e.g.: numarul rularii pe o axa si rezultatul mediu obtinut pe cealalta, unde rularile sunt initializate aleatoriu.
+Discutia influentei parametrilor asupra performantei algoritmului: descrieti cum ati optimizat algoritmul.
+Comparatii si discutie intre metodele implementate (numarul de evaluari pana se ajunge la o anumita precizie a solutiei pentru fiecare metoda, sau fixati un nr maxim de evaluari permis si afisati solutia obtinuta de fiecare metoda). Utilizati algoritmii optimizati.
+Concluzii. Discutati si explicati natura si implicatiile rezultatelor, incercati sa facilitati intelegerea lor, la un nivel mai inalt decat discutia la obiect din sectiunea Rezultate Experimentale. Nu mai mult de 2 directii de cercetare viitoare.
+Bibliografie. Mentionati toate resursele de care v-ati folosit: pagina / suportul de curs, articole stiintifice, wikipedia, wolfram alpha, youtube, tot.
+
+--------------------------------------------------------------------------------------------------------------
+
+Tema H3: Rezolvati una din problemele de mai jos cu un Algoritm Genetic si o alta metoda euristica:
+3. Problema comisului voiajor (TSP)(Probleme de test)
+
+Folositi doar instante din biblioteci de instante (nu va generati dvs. instante). Minim 10 instante, dintre care 3 sa fie cele mai mari si dificile disponibile. Sugestie: 1 instanta usoara, apoi crestere in dificultate / dimensiune pana la cele 3 foarte dificile.
+Penalizare de cate 0.5 puncte daca depasiti 2000 de generatii sau 200 de indivizi dupa selectie. (Incercati sa lucrati eficient, si sa echilibrati explorarea si exploatarea in algoritm).

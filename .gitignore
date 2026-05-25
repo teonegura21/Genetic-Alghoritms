@@ -1,0 +1,58 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*~
+*.code-workspace
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.out
+*.app
+*.pdb
+*.ilk
+*.dSYM/
+
+# Build directories
+build/
+bin/
+cmake-build-*/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# R artifacts
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
